@@ -1,0 +1,12 @@
+[submodule "goclaim/goclaim_app"]
+	path = goclaim/goclaim_app
+	url = https://github.com/andrewkimjoseph/goclaim-app.git
+[submodule "goclaim/goclaim_website"]
+	path = goclaim/goclaim_website
+	url = https://github.com/andrewkimjoseph/goclaim-website.git
+[submodule "the-good-pax-app"]
+	path = the-good-pax-app
+	url = https://github.com/andrewkimjoseph/the-good-pax-app.git
+[submodule "daystogo"]
+	path = daystogo
+	url = https://github.com/andrewkimjoseph/daystogo.git
